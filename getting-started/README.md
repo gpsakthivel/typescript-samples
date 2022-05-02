@@ -1,0 +1,1 @@
+It contains the basic typescript concepts.
